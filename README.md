@@ -34,15 +34,10 @@ We tested **SVM**, **Logistic Regression**, and **Random Forest**, with Random F
 - **Features:** Averaged EEG channels by brain region (frontal, temporal, parietal, occipital) plus mean and variance  
 - **Labels:** Binary emotion labels — Positive (Calm, Funny, Satisfaction) and Negative (Boredom, Horrible)  
 
-*EXAMPLE:*
 *Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/wajahat1064/emotion-recognition-using-eeg-and-computer-games/data)*
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas, numpy, scikit-learn*
 - *Matplotlib, Seaborn (for visualizations)*
